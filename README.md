@@ -4,7 +4,9 @@ This project is based on 2 cases studies : Gems Price Prediction and Holiday Pac
 
 ## Skills and Tools
 
-Linear Regression, Logistic Regression, Linear discriminant Analysis
+    - Linear Regression
+    - Logistic Regression
+    - Linear discriminant Analysis
 
 ## Case study-1: Gems Price Prediction
 
